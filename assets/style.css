@@ -37,9 +37,7 @@ h1 {
     bottom: 0px
 }
  }
-.imagen {
-    width = 240px
-}
+
 
 .questiondiv
 {
@@ -71,7 +69,7 @@ h1 {
     
 }
 #options{
-    padding-top: 20px
+    padding-top: 30px
 }
 #playagain{
     margin-top: 30px;
